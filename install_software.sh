@@ -1,0 +1,1 @@
+conda create -n exp --file conda_requirements.txt
