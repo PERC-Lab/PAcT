@@ -28,7 +28,7 @@ If you have any trouble running the experiment, please email the question to - `
 
 ## Cite
 
-If you use this code academically, please cite our work
+If you use this code academically, please cite our work. You can read the complete work [here](https://dl.acm.org/doi/abs/10.1145/3507657.3528543)
 
 ```
 @inproceedings{jain2022pact,
